@@ -1,15 +1,20 @@
-# Hola, soy Brenda 
+# Hola, soy Brenda
 
-Desarrollo aplicaciones web con Python y Flask, integrando inteligencia 
-artificial para construir herramientas que resuelven problemas concretos.
+Desarrolladora full stack junior con foco en **Python** y **automatización con inteligencia artificial**. Construyo aplicaciones web de punta a punta (backend, base de datos e interfaz) y herramientas que automatizan tareas y resuelven problemas concretos.
 
-##  Stack
+Estudio la Tecnicatura Superior en Análisis de Sistemas y busco mi primera oportunidad como desarrolladora Python / Full Stack.
+
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A7E8C?style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-Anthropic-orange)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-D97757?style=flat)
 
 ##  Proyectos
 
